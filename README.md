@@ -1,6 +1,6 @@
 # Boas Práticas com DynamoDB: Passo a Passo
 
-Este guia apresenta um passo a passo para aplicar boas práticas ao trabalhar com o Amazon DynamoDB, baseando-se nos tópicos mencionados nas imagens.
+Este guia apresenta um passo a passo para aplicar boas práticas ao trabalhar com o Amazon DynamoDB.
 
 ## 1. Introdução ao DynamoDB
 
